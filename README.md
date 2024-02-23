@@ -1,15 +1,27 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+2/23/24 Project 3 for Game Tech
 
-Description
+Made dull brick breaker "juicy".
 
 ## Implementation
-Which features you included
+Color
+Screenshake
+SFX (x3)
+Music (beginning, middle and end)
+Brick appearance
+Paddle particles
+Bricks Fall
+Bricks Rotate
+Comet Trail
+Eyes
+Shaders
+Background
 
 ## References
 
 ## Future Development
 
 ## Created by
+Griffin Burge
